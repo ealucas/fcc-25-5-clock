@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto;
+  background-color: #a84632;
+}
+#timer-label {
+  font-style: bold;
+}
+#time-left{
+  font-size: 4em;
+}
+
+button{
+  background-color: #faeadc;
+  border-radius: 3px;
+  border: 0px;
+  padding: 5px;
+  margin: 5px;
+}
+
+button:hover {
+  background-color: #f7bb86;
+}
